@@ -21,7 +21,7 @@ The Twilio platform supports the following configuration options
 | Key                  | Values | Description                                                  | Constraint    |
 | -------------------- | ------ | ------------------------------------------------------------ | ------------- |
 | `xatkit.twilio.username` | String | The Account SID of your Twilio Account | Mandatory
-| `xatkit.twilio.auth.token` | String | The Twilio token used by Xatkit to interact with the [Twilio API].| Mandatory
+| `xatkit.twilio.auth.token` | String | The Twilio token used by Xatkit to interact with the Twilio API.| Mandatory
 
 ## Using the Twilio platform
 
