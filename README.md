@@ -38,5 +38,5 @@ You also need to configure your Twilio Sandbox for WhatsApp in the Twilio consol
 
    ![Twilio Sandbox for WhatsApp](https://user-images.githubusercontent.com/48770214/165193307-fdaaf2f9-7c02-4bf2-a0f8-ae4eccb8a9e1.png)
 
-You can get more information about it at https://www.twilio.com/docs/whatsapp/sandbox
+You can get more information about this configuration at [https://www.twilio.com/docs/whatsapp/sandbox](https://www.twilio.com/docs/whatsapp/sandbox)
 
